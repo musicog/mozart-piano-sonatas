@@ -20,7 +20,7 @@
       </fileDesc>
       <encodingDesc>
          <appInfo>
-            <application isodate="2022-04-06T14:09:41" version="3.10.0-dev-b07f618">
+            <application isodate="2022-04-06T15:18:00" version="3.10.0-dev-b07f618">
                <name>Verovio</name>
                <p>Transcoded from Humdrum</p>
             </application>
@@ -246,24 +246,24 @@
    </meiHead>
    <music>
       <body>
-         <mdiv xml:id="mp3utfb">
-            <score xml:id="slt3ntq">
-               <scoreDef xml:id="syo2m9" midi.bpm="120.000000">
-                  <pgHead xml:id="p56fztw">
-                     <rend xml:id="ri08kbs" halign="center" valign="middle">
-                        <rend xml:id="rv8qkwl" fontsize="large">Piano Sonata No. 1 in C major</rend>
-                        <lb xml:id="lbh2jmc" /> 
-<lb xml:id="lkx4bcl" /> </rend>
-                     <rend xml:id="r33pj2f" halign="right" valign="bottom" fontsize="small">Wolfgang Amadeus Mozart</rend>
-                     <rend xml:id="ra76l4" halign="right" valign="bottom" fontsize="small">1756–91</rend>
+         <mdiv xml:id="mzegnty">
+            <score xml:id="stlvt1u">
+               <scoreDef xml:id="sjiocmm" midi.bpm="120.000000">
+                  <pgHead xml:id="p8za3sb">
+                     <rend xml:id="r6vyciq" halign="center" valign="middle">
+                        <rend xml:id="ruorheh" fontsize="large">Piano Sonata No. 1 in C major</rend>
+                        <lb xml:id="lj96tda" /> 
+<lb xml:id="lvy426a" /> </rend>
+                     <rend xml:id="ri3d5e0" halign="right" valign="bottom" fontsize="small">Wolfgang Amadeus Mozart</rend>
+                     <rend xml:id="rrmstyn" halign="right" valign="bottom" fontsize="small">1756–91</rend>
                   </pgHead>
-                  <staffGrp xml:id="s5k88w3" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="ste1hsp" n="1" lines="5">
+                  <staffGrp xml:id="s5zsrdj" bar.thru="true" symbol="brace">
+                     <staffDef xml:id="sin5wdp" n="1" lines="5">
                         <clef xml:id="clef-L15F2" shape="G" line="2" />
                         <keySig xml:id="keysig-L16F2" pname="c" mode="major" sig="0" />
                         <meterSig xml:id="metersig-L18F2" count="4" sym="common" unit="4" />
                      </staffDef>
-                     <staffDef xml:id="smhnp1z" n="2" lines="5">
+                     <staffDef xml:id="stpqn6f" n="2" lines="5">
                         <clef xml:id="clef-L15F1" shape="F" line="4" />
                         <keySig xml:id="keysig-L16F1" pname="c" mode="major" sig="0" />
                         <meterSig xml:id="metersig-L18F1" count="4" sym="common" unit="4" />
@@ -271,18 +271,18 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-L10F1">
-                  <choice xml:id="cf1iu01">
-                     <orig xml:id="ox4utb5">
+                  <choice xml:id="cbfh77n">
+                     <orig xml:id="ol164cd">
                         <expansion plist="#label-A #label-A #label-B" xml:id="expansion-L12F1" />
                      </orig>
-                     <reg xml:id="rx8ct3k" type="norep">
+                     <reg xml:id="rrljezw" type="norep">
                         <expansion plist="#label-A #label-B" xml:id="expansion-L13F1" type="norep" />
                      </reg>
                   </choice>
-                  <pb xml:id="pzgft9r" />
+                  <pb xml:id="pnq37sj" />
                   <section xml:id="label-A">
                      <measure xml:id="measure-L1" n="1">
-                        <staff xml:id="s9f7efa" n="1">
+                        <staff xml:id="srgy55p" n="1">
                            <layer xml:id="layer-L10F2N1" n="1">
                               <chord xml:id="chord-L22F2" dur="4">
                                  <note xml:id="note-L22F2S1" oct="4" pname="e" accid.ges="n" />
@@ -308,7 +308,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <staff xml:id="sxby3hz" n="2">
+                        <staff xml:id="swngyra" n="2">
                            <layer xml:id="layer-L10F1N1" n="1">
                               <beam xml:id="beam-L22F1-L25F1">
                                  <note xml:id="note-L22F1" dur="16" oct="3" pname="c" accid.ges="n" />
@@ -1812,7 +1812,7 @@
                         <staff xml:id="staff-L489F1N1" n="2">
                            <layer xml:id="layer-L489F1N1" n="1">
                               <mRest xml:id="mrest-L491F1" />
-                              <clef xml:id="cz2522x" shape="F" line="4" />
+                              <clef xml:id="ch1wnvn" shape="F" line="4" />
                            </layer>
                         </staff>
                         <slur xml:id="slur-L490F2-L491F2" staff="1" startid="#note-L490F2" endid="#note-L491F2" />
@@ -4980,7 +4980,7 @@
                         <staff xml:id="staff-L1530F1N1" n="2">
                            <layer xml:id="layer-L1530F1N1" n="1">
                               <mRest xml:id="mrest-L1532F1" />
-                              <clef xml:id="cpjoo26" shape="F" line="4" />
+                              <clef xml:id="cy4ara9" shape="F" line="4" />
                            </layer>
                         </staff>
                         <slur xml:id="slur-L1531F2-L1532F2" staff="1" startid="#note-L1531F2" endid="#note-L1532F2" />
